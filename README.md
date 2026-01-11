@@ -187,8 +187,10 @@ Upload 3 bank files                     Upload 3 bank files
 Total: 6 seconds                      Total: 2s (parallel)
 
 Speedup: 3x faster                    All complete at once!
-```
+
 Note: Process Time 2s (Assumption)
+```
+
 ---
 
 ## 📡 API Endpoints
